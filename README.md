@@ -6,9 +6,10 @@ Kotlin is a Java based language. If you know the basics of Java, it's realy easy
 I use, InteliJ to code Kotlin.
 
 ### Content
-1. Hello World
-2. Classes and Objects
-3. Var Val
-4. Kotlin and Java connect
-5. Operators
-6. If-Else
+01. Hello World
+02. Classes and Objects
+03. Var Val
+04. Kotlin and Java connect
+05. Operators
+06. If-Else
+07. String Comparisons
