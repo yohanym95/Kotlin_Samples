@@ -16,6 +16,17 @@ fun main(args : Array<String>){
     else
         y
 
+    //else if
+    var result = if(x > y) {
+        y + x
+    }
+    else if(x < y) {
+        y - x
+    }
+    else
+        0
+
     println(max)
     println(min)
+    println(result)
 }
