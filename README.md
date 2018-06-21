@@ -13,3 +13,5 @@ I use, InteliJ to code Kotlin.
 05. Operators
 06. If-Else
 07. String Comparisons
+08. Null Handling
+09. When Expression
