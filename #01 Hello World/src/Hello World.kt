@@ -1,3 +1,3 @@
-fun main(args : Array<String>){
-    println("Hello, World!")
+fun main(args : Array<String>){ // This is the main function ( same as main method in java)
+    println("Hello, World!") // Print statment
 }
