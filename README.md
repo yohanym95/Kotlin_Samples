@@ -15,3 +15,4 @@ I use, InteliJ to code Kotlin.
 07. String Comparisons
 08. Null Handling
 09. When Expression
+10. Loop and Range
