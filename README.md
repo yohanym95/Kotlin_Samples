@@ -17,3 +17,4 @@ I use, InteliJ to code Kotlin.
 09. When Expression
 10. Loop and Range
 11. List and Map
+12. Function Expression
