@@ -20,3 +20,4 @@ I use, InteliJ to code Kotlin.
 	12. Function Expression
 	13. Default and Named Parameters
 	14. String to Integer
+	15. Try Expression
