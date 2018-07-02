@@ -18,7 +18,7 @@ fun main(args : Array<String>){
 // Extension Function. Defining a function outside the class (Defining th plus() of Test).
 // plus becomes an extension function of Test.
 // When defining an extension class we use ClassName.functionName(){} syntax.
-fun Test.plus(a : Test //Parameter) : Test //Return type{
+fun Test.plus(a : Test) : Test{
 
     var newTest = Test()
 
