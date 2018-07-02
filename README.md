@@ -22,3 +22,4 @@ I use, InteliJ to code Kotlin.
 	14. String to Integer
 	15. Try Expression
 	16. Extension Function
+	17. Infix and Operator Overloading
