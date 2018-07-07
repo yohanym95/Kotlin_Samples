@@ -1,4 +1,4 @@
-### Lesson 18 - Recursion
+### Lesson 20 - Recursion
 
 This Demo code is to show how to use recursion in Kotlin. This is how to calculate the factorial of a given number.
 
