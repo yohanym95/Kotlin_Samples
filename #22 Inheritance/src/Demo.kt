@@ -1,5 +1,5 @@
 //In Kotlin classes are "final" by default.
-//We should use "open" keyword with the parent class to inherit.
+//By default classes are "final" in Kotlin. We should use "open" keyword with the parent class to inherit.
 open class Father{ //Parent class
     fun think(){
         println("Thinking...")
