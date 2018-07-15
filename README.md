@@ -28,3 +28,4 @@ I use, InteliJ to code Kotlin.
 	20. Recursion (BigInteger, Tail Recursion included)
 	21. Constructors (Primary, Secondary)
 	22. Inheritance
+	23. Overriding
