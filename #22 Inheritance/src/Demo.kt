@@ -15,3 +15,5 @@ fun main(args : Array<String>){
     var tom = Son()
     tom.think() //Calling Son's inherited think() function.
 }
+
+// IN KOTLIN, MULTIPLE INHERITANCE IS NO ALLOWED.
