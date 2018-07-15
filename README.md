@@ -26,3 +26,6 @@ I use, InteliJ to code Kotlin.
 	18. Extension Function
 	19. Infix and Operator Overloading
 	20. Recursion (BigInteger, Tail Recursion included)
+	21. Constructors (Primary, Secondary)
+	22. Inheritance
+	23. Overriding
