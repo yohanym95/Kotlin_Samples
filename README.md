@@ -29,3 +29,4 @@ I use, InteliJ to code Kotlin.
 	21. Constructors (Primary, Secondary)
 	22. Inheritance
 	23. Overriding
+	24. Polymorphism
