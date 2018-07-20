@@ -30,3 +30,4 @@ I use, InteliJ to code Kotlin.
 	22. Inheritance
 	23. Overriding
 	24. Polymorphism
+	25. Constructors Behavior in Inheritance
