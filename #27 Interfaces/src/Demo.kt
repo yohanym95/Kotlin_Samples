@@ -7,6 +7,8 @@ interface B{
 }
 
 class C : A, B{
+
+    //Must override abstract functions in interfaces.
     override fun m(){
         println("Interface A")
     }
