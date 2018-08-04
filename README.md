@@ -31,3 +31,6 @@ I use, InteliJ to code Kotlin.
 	23. Overriding
 	24. Polymorphism
 	25. Constructors Behavior in Inheritance
+	26. Abstract Classes
+	27. Interfaces
+	28. Data Classes
