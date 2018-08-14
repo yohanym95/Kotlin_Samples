@@ -35,3 +35,4 @@ I use, InteliJ to code Kotlin.
 	27. Interfaces
 	28. Data Classes
 	29. Object Keyword
+	30. Anonymous Inner Class
