@@ -37,3 +37,4 @@ I use, InteliJ to code Kotlin.
 	29. Object Keyword
 	30. Anonymous Inner Class
 	31. Companion Objects
+	32. Companion Objects - Factory Pattern
