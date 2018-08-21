@@ -1,0 +1,1 @@
+### Lesson 32 - Companion Objects - Factory Pattern
