@@ -38,3 +38,4 @@ I use, InteliJ to code Kotlin.
 	30. Anonymous Inner Class
 	31. Companion Objects
 	32. Companion Objects - Factory Pattern
+	33. Backtick
