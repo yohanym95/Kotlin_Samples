@@ -5,7 +5,10 @@ import java.util.*
 
 fun main(args:Array<String>){
 
-    val reader = Scanner (System.`in`) // Creating object from Scanner class
+    var reader = Scanner (System.`in`) // Creating object from Scanner class.
+    //Here we use backtick as an escape character.
+
+    var x = reader.nextInt()
 
     println("ANOTHER WAY IN INPUT OUT KOTLIN")
     println("Enter your Name")
