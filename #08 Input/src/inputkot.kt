@@ -9,6 +9,7 @@ fun main(args:Array<String>){
     //Here we use backtick as an escape character.
 
     var x = reader.nextInt()
+    println(x)
 
     println("ANOTHER WAY IN INPUT OUT KOTLIN")
     println("Enter your Name")
