@@ -39,3 +39,4 @@ I use, InteliJ to code Kotlin.
 	31. Companion Objects
 	32. Companion Objects - Factory Pattern
 	33. Backtick
+	34. Array
