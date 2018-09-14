@@ -1,5 +1,7 @@
 fun main(args : Array<String>){
-    var value: List<Int> = listOf<Int>(2, 5, 3, 9) //A list of Integers.
+
+    //It's not compulsary to define "List<Int>" after the variable name.
+    var value : List<Int> = listOf<Int>(2, 5, 3, 9) //A list of Integers.
     for( i in value)
         println(i)
 
